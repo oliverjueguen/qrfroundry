@@ -1,7 +1,7 @@
 # 🎯 QRfoundry
 
 <div align="center">
-  <img src="public/qrfoundry-banner.png" alt="QRfoundry Banner" width="600px">
+  <img src="qrfroundry.png" alt="QRfoundry" width="600px">
 
   <p align="center">
     A modern, feature-rich QR code generator built with Next.js and TypeScript
