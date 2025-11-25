@@ -85,16 +85,14 @@ Have an idea? Open an issue with:
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+oliverjueguen@gmail.com
 
-Project Link: [https://github.com/yourusername/qrfoundry](https://github.com/yourusername/qrfoundry)
+Project Link: [https://github.com/oliverjueguen/qrfoundry]
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/OliverJueguen">OliverJueguen</a></p>
-  <p>
-    <a href="https://github.com/OliverJueguen/qrfoundry/stargazers">⭐ Star us on GitHub</a>
-  </p>
+  <p>Made by <a href="https://github.com/oliverjueguen">oliverjueguen</a></p>
+
 </div>
 
