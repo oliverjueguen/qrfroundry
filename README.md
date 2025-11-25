@@ -59,6 +59,7 @@ Start production server
 npm start
 
 ### Project Structure
+<pre>
 qrfoundry/
 ├── components/ # React components
 ├── context/ # React context providers
@@ -66,7 +67,7 @@ qrfoundry/
 ├── public/ # Static assets
 ├── styles/ # Global styles
 └── types/ # TypeScript types
-
+</pre>
 
 ## 🐛 Bug Reports
 
