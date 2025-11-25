@@ -93,7 +93,7 @@ Project Link: [https://github.com/oliverjueguen/qrfoundry]
 ---
 
 <div align="center">
-  <p>Made by <a href="https://github.com/oliverjueguen">oliverjueguen</a></p>
+  <p>Made by <a href="https://github.com/oliverjueguen/qrfroundry">oliverjueguen</a></p>
 
 </div>
 
