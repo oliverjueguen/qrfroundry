@@ -88,8 +88,6 @@ Have an idea? Open an issue with:
 
 oliverjueguen@gmail.com
 
-Project Link: [https://github.com/oliverjueguen/qrfoundry]
-
 ---
 
 <div align="center">
